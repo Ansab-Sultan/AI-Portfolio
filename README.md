@@ -4,4 +4,4 @@ I'm an AI Engineer specializing in machine learning, deep learning, natural lang
 
 ## Objective
 
-As an AI Engineer, I am driven by a passion for leveraging artificial intelligence to drive innovation and solve complex problems. I am seeking opportunities to apply my expertise in machine learning, deep learning, and natural language processing to develop intelligent systems and cutting-edge algorithms. With a focus on advancing the field of AI, I aim to collaborate with dynamic teams to create impactful solutions that address real-world challenges and push the boundaries of technological possibility.
+Passionate AI Engineer driven to innovate and solve complex problems using machine learning and deep learning. Seeking opportunities to push the boundaries of AI technology and collaborate on impactful projects that address real-world challenges.
