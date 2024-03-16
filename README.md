@@ -35,6 +35,16 @@ My journey as an AI Engineer has driven me to innovate and solve complex problem
   - Streamlit
   - Python
   - HTML/CSS
+    
+### Project 4: [Emotion Detection with LSTM Model](https://github.com/Ansab-Sultan/Emotion-Analysis)
+- **Description:** This project focuses on emotion detection in textual data using a Long Short-Term Memory (LSTM) neural network model. It encompasses data preprocessing, exploratory data analysis (EDA), model training, and a Streamlit web application for real-time emotion prediction.
+- **Technologies Used:**
+  - NumPy
+  - Pandas
+  - LSTM
+  - Word Cloud
+  - Streamlit
+ 
 
 ## Skills
 - Machine Learning
