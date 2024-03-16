@@ -18,10 +18,14 @@ My journey as an AI Engineer has driven me to innovate and solve complex problem
   - pickle
   - streamlit
 
-### Project 2: [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies used in the project]
-- **GitHub Repository:** [Link to the GitHub repository]
+### Project 2: [Melanoma Cancer Image Classification](https://github.com/Ansab-Sultan/Image-Classification/tree/main/Melanoma%20Cancer%20Image%20Classification)
+- **Description:** Diabetic retinopathy is a common complication of diabetes and a leading cause of blindness. This project focuses on the early detection of diabetic retinopathy through the classification of retinal images using deep learning techniques. Early detection can facilitate timely intervention and treatment, potentially preventing vision loss in diabetic patients. A GUI is also implemented for the ease of users.
+- **Technologies Used:**
+  - TensorFlow
+  - Keras
+  - NumPy
+  - Pandas
+  - Matplotlib
 
 ### Project 3: [Project Name]
 - **Description:** [Brief description of the project]
