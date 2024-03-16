@@ -25,6 +25,6 @@
 - LangChain
 
 ## Contact
-- **Email:** [![Email]((https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg))](ansabsultan2002@gmail.com)
+- **Email:** <a href="https://www.linkedin.com/in/ansab-sultan-7525a1282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - **LinkedIn:** [![LinkedIn]((https://th.bing.com/th/id/R.7797eeb65f7f1cca220f484f4ee63297?rik=bHE7C4CsHRiS8g&pid=ImgRaw&r=0))]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ansab-sultan-7525a1282/))
 
