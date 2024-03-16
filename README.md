@@ -28,10 +28,13 @@ My journey as an AI Engineer has driven me to innovate and solve complex problem
   - Matplotlib
   - streamlit
    
-### Project 3: [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies used in the project]
-- **GitHub Repository:** [Link to the GitHub repository]
+### Project 3: [Website Developer Assistant](https://github.com/Ansab-Sultan/ChatBots/tree/main/Website%20Developer%20Assistant)
+- **Description:** The Website Developer Assistant project aims to support users in website development tasks by offering guidance and code snippets through natural language processing techniques. Leveraging LangChain, this project utilizes an existing chatbot model to understand user queries and generate relevant responses, including HTML and CSS code snippets.
+- **Technologies Used:**
+  - Language Models (Hugging Face's Transformers library)
+  - Streamlit
+  - Python
+  - HTML/CSS
 
 ## Skills
 - Machine Learning
