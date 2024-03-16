@@ -7,15 +7,15 @@
 
 ## Projects
 
-### Project 1: [Twitter Sentiment Analysis using Logistic Regression](https://github.com/Ansab-Sultan/Sentiment-Analysis/tree/main/Twitter%20Sentiment%20Analysis%20using%20Logistic%20Regression)
+- ### Project 1: [Twitter Sentiment Analysis using Logistic Regression](https://github.com/Ansab-Sultan/Sentiment-Analysis/tree/main/Twitter%20Sentiment%20Analysis%20using%20Logistic%20Regression)
 
-### Project 2: [Melanoma Cancer Image Classification](https://github.com/Ansab-Sultan/Image-Classification/tree/main/Melanoma%20Cancer%20Image%20Classification)
+- ### Project 2: [Melanoma Cancer Image Classification](https://github.com/Ansab-Sultan/Image-Classification/tree/main/Melanoma%20Cancer%20Image%20Classification)
 
-### Project 3: [Website Developer Assistant](https://github.com/Ansab-Sultan/ChatBots/tree/main/Website%20Developer%20Assistant)
+- ### Project 3: [Website Developer Assistant](https://github.com/Ansab-Sultan/ChatBots/tree/main/Website%20Developer%20Assistant)
 
-### Project 4: [Emotion Detection with LSTM Model](https://github.com/Ansab-Sultan/Emotion-Analysis)
+- ### Project 4: [Emotion Detection with LSTM Model](https://github.com/Ansab-Sultan/Emotion-Analysis)
 
-### Project 5: [Diabetes Prediction using XGBoost](https://github.com/Ansab-Sultan/Diabetes-Prediction)
+- ### Project 5: [Diabetes Prediction using XGBoost](https://github.com/Ansab-Sultan/Diabetes-Prediction)
 
 ## Skills
 - Machine Learning
