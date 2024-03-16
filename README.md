@@ -7,8 +7,16 @@ My journey as an AI Engineer has driven me to innovate and solve complex problem
 ## Projects
 
 ### Project 1: [Twitter Sentiment Analysis using Logistic Regression](https://github.com/Ansab-Sultan/Sentiment-Analysis/tree/main/Twitter%20Sentiment%20Analysis%20using%20Logistic%20Regression)
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies used in the project]
+- **Description:** Twitter Sentiment Analysis is a Python project that leverages machine learning techniques to analyze sentiment in Twitter data. The project preprocesses text data, trains a logistic regression model, and evaluates its performance. Additionally, it includes a ROC curve plot to visualize the model's performance.
+- **Technologies Used:**
+  - Python
+  - pandas
+  - numpy
+  - scikit-learn
+  - nltk
+  - matplotlib
+  - pickle
+  - streamlit
 
 ### Project 2: [Project Name]
 - **Description:** [Brief description of the project]
