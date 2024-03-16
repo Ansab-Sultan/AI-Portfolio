@@ -6,10 +6,10 @@ My journey as an AI Engineer has driven me to innovate and solve complex problem
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: [Twitter Sentiment Analysis using Logistic Regression]
 - **Description:** [Brief description of the project]
 - **Technologies Used:** [List of technologies used in the project]
-- **GitHub Repository:** [Link to the GitHub repository]
+- **GitHub Repository:** [[Link to the GitHub repository](https://github.com/Ansab-Sultan/Sentiment-Analysis/tree/main/Twitter%20Sentiment%20Analysis%20using%20Logistic%20Regression)]
 
 ### Project 2: [Project Name]
 - **Description:** [Brief description of the project]
