@@ -26,7 +26,8 @@ My journey as an AI Engineer has driven me to innovate and solve complex problem
   - NumPy
   - Pandas
   - Matplotlib
-
+  - streamlit
+   
 ### Project 3: [Project Name]
 - **Description:** [Brief description of the project]
 - **Technologies Used:** [List of technologies used in the project]
