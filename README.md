@@ -17,8 +17,7 @@
 
 - ### Project 5: [Diabetes Prediction using XGBoost](https://github.com/Ansab-Sultan/Diabetes-Prediction)
 
-For more projects visit <a href="https://github.com/Ansab-Sultan?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+For more projects visit my [GitHub Repositories](https://github.com/Ansab-Sultan?tab=repositories)
 
 ## Skills
 - Machine Learning
