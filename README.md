@@ -24,8 +24,10 @@ For more projects visit my [GitHub Repositories](https://github.com/Ansab-Sultan
 - Deep Learning
 - Natural Language Processing
 - Computer Vision
+- Large Language Models
+- HuggingFace
 - LangChain
-
+  
 ## Contact
 - <a href="ansabsultan2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
