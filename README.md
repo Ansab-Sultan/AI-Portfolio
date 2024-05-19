@@ -17,6 +17,10 @@
 
 - ### Project 5: [Diabetes Prediction using XGBoost](https://github.com/Ansab-Sultan/Diabetes-Prediction)
 
+- ### Project 6: [CIFAR-10 Classification](https://github.com/Ansab-Sultan/Image-Classification/tree/main/CIFAR-10%20Classification)
+
+  
+
 For more projects visit my [GitHub Repositories](https://github.com/Ansab-Sultan?tab=repositories)
 
 ## Skills
