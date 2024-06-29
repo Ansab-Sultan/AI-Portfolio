@@ -33,7 +33,8 @@ For more projects visit my [GitHub Repositories](https://github.com/Ansab-Sultan
 - LangChain
   
 ## Contact
-- <a href="ansabsultan2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="ansabsultan2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- <a href="https://www.linkedin.com/in/ansab-sultan-7525a1282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ansab-sultan-7525a1282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
