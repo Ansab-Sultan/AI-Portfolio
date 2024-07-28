@@ -7,7 +7,7 @@
 
 ## Projects
 
-- ### Project 1: [DocQuery Pro ChatBot - Chat with multiple PDFs]([https://github.com/Ansab-Sultan/Website-Developer-Assistant-ChatBot](https://github.com/Ansab-Sultan/RAG-Retrieval-Augmented-Generation/tree/main/DocQuery%20Pro%20-%20Chat%20with%20multiple%20PDFs)
+- ### Project 1: [DocQuery Pro ChatBot - Chat with multiple PDFs](https://github.com/Ansab-Sultan/Website-Developer-Assistant-ChatBot](https://github.com/Ansab-Sultan/RAG-Retrieval-Augmented-Generation/tree/main/DocQuery%20Pro%20-%20Chat%20with%20multiple%20PDFs)
   
 - ### Project 2: [Website Developer Assistant ChatBot](https://github.com/Ansab-Sultan/Website-Developer-Assistant-ChatBot)
   
