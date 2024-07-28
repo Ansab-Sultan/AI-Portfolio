@@ -7,12 +7,12 @@
 
 ## Projects
 
-- ### Project 1: [Twitter Sentiment Analysis using Logistic Regression](https://github.com/Ansab-Sultan/Twitter-Sentiment-Analysis)
-
-- ### Project 2: [Melanoma Cancer Image Classification](https://github.com/Ansab-Sultan/Image-Classification/tree/main/Melanoma%20Cancer%20Image%20Classification)
-
-- ### Project 3: [Website Developer Assistant ChatBot](https://github.com/Ansab-Sultan/Website-Developer-Assistant-ChatBot)
-
+- ### Project 1: [DocQuery Pro ChatBot - Chat with multiple PDFs]([https://github.com/Ansab-Sultan/Website-Developer-Assistant-ChatBot](https://github.com/Ansab-Sultan/RAG-Retrieval-Augmented-Generation/tree/main/DocQuery%20Pro%20-%20Chat%20with%20multiple%20PDFs)
+  
+- ### Project 2: [Website Developer Assistant ChatBot](https://github.com/Ansab-Sultan/Website-Developer-Assistant-ChatBot)
+  
+- ### Project 3: [Twitter Sentiment Analysis using Logistic Regression](https://github.com/Ansab-Sultan/Twitter-Sentiment-Analysis)
+  
 - ### Project 4: [Emotion Detection with LSTM Model](https://github.com/Ansab-Sultan/Emotion-Analysis)
 
 - ### Project 5: [Diabetes Prediction using XGBoost](https://github.com/Ansab-Sultan/Diabetes-Prediction)
